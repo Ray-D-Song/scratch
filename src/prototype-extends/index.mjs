@@ -1,0 +1,6 @@
+const Class = {
+  create() {
+    return () => {}
+  }
+}
+
